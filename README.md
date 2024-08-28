@@ -16,8 +16,8 @@ Sounds: https://freesound.org/
 
 * Simply enter the names of your players, separating them with commas (Test, Test2,Test3...). 
 * Adjust the player speed settings
-
 * Click "Set Up Field"
+* At the end of the game, hit escape to restart.
 * Game currently supports up to 18 players on screen (on field).
 
 
