@@ -1,7 +1,7 @@
 # DraftPicker (100 Yard Dash)
 ### A simple draft order picker for fantasy football games.
 ---
-
+Can be played on itch.io: https://shinypennygames.itch.io/draft-picker
 
 #### Built in Unity 2022.3.35f
 
